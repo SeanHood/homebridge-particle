@@ -1,0 +1,11 @@
+{
+    "accessories": [
+        {
+            "accessory": "Particle",
+            "name": "Fairy Light's",
+            "platform_url": "https://api.particle.io/v1",
+            "device_id": "XXX",
+            "access_token": "XXX"
+        }
+    ]
+}
